@@ -21,6 +21,10 @@ h1{
   color: white;
 }
 
+#author{
+  color: blue;
+}
+
 .separator{
   width: 50px;
   height: 150px;
